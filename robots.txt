@@ -1,1 +1,1 @@
-gaaggaa
+User-agent: *
